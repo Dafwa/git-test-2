@@ -8,5 +8,10 @@
 <body>
     <h1>Hello Daffa</h1>
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique, esse sint. Laborum earum, nesciunt quia, unde tempore fugit expedita id dolor nihil nobis assumenda. Sit nulla quo vel ipsa aliquam.</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+        <li>tiga</li>
+    </ul>
 </body>
 </html>
